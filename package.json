@@ -1,0 +1,24 @@
+{
+  "name": "basic_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craigmillion/simple-express-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Craigmillion/simple-express-node/issues"
+  },
+  "homepage": "https://github.com/Craigmillion/simple-express-node#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
